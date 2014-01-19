@@ -1,4 +1,4 @@
 def
 ===
 
-Source for http://def.dis-orientation.info
+Example domain for a university to use on `dis-orientation.info`.
